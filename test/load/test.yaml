@@ -1,0 +1,7 @@
+config:
+  target: 'http://localhost:3000' # URL of your NestJS application
+
+scenarios:
+  - flow:
+      - get:
+          url: '/api/employees' # Endpoint to test
