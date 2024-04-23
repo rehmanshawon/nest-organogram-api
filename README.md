@@ -1,6 +1,6 @@
 # NestJS Employee Organogram API
 
-This is a sample NestJS project that implements an Employee Organogram API. The API provides endpoints for managing employee information in a hierarchical manner based on positions.
+This is the assessment NestJS project that implements an Employee Organogram API. The API provides endpoints for managing employee information in a hierarchical manner based on positions.
 
 ## Features
 
